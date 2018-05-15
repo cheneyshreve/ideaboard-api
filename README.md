@@ -1,24 +1,18 @@
-# README
+#README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple CRUD app using Rails 5 API and React for frontend component. See ideaboard repo for React.
 
-Things you may want to cover:
+For tutorial, visit:
+https://www.sitepoint.com/react-rails-5-1/
 
-* Ruby version
+Or
+- clone this repository
+- set up rails server on port 3001
+```$ rails s -p 3001```
 
-* System dependencies
+- clone the ideaboard repo
+- make sure NPM is installed
 
-* Configuration
+```$ npm start ```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+navigate to localhost:3000 in your browser
